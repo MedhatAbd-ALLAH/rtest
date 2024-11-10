@@ -1,8 +1,6 @@
-My Name is Medhat Abd_Allah
-My age is 23y 1m 20d
-My fav hobby is orgami
-Iam an engineer
+My Name is Medhat Abd_Allah.
+My age is 23y 1m 20d.
+My fav hobby is orgami.
+Iam an engineer.
 Nothing to say.
-There is alot info about me but i can not describe it
-Wel, test again
-this line well be deleted woon
+There is alot info about me but i can not describe it.
